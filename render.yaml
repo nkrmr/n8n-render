@@ -36,3 +36,4 @@ services:
 databases:
   - name: n8nDB
     plan: starter
+    region: frankfurt
